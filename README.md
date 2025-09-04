@@ -4,7 +4,7 @@ Exploratory analysis of the Olist Brazilian E-Commerce dataset to study customer
 
 **Dataset**
 
-The dataset comes from Olist (publicly available on Kaggle/Dropbox links) and includes:
+The dataset comes from Olist (publicly available on Kaggle) and includes:
 
 Customers, sellers, and product details
 
